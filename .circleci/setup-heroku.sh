@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # TODO config.ymlの方の環境変数で設定出来るようにする。
-git remote add heroku git@heroku.com:search-hotels-app.git
+git remote add heroku git@heroku.com:${herokuのAPP名}.git
 
 cat >> ~/.ssh/config << EOF
 Host heroku.com
