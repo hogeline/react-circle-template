@@ -1,5 +1,5 @@
 # React+CircleCIのテンプレートです
-
+- create-react-appで作成しています．
 - CircleCIはビルドしてテストを行い，Herokuへとデプロイする設定になっています．
 
 How to install
